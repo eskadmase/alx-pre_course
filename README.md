@@ -1,1 +1,1 @@
-My first readme
+this repo is for my learning in ALX school
